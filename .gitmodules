@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/adunham1/adunham1.github.io.git
+	branch = master
